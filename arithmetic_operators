@@ -1,0 +1,3 @@
+m1=25
+m2=21
+print("Arithmetic operation:",(m1+m2))
